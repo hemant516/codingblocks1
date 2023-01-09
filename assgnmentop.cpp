@@ -12,7 +12,7 @@ int main() {
 
 	int y; 
 
-	y = 10+20;
+	y = 10+20;hgjhgju
 
 	cout << "y = " << y << endl;
 
