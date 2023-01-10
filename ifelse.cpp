@@ -1,7 +1,8 @@
 #include<iostream>
 
 using namespace std;
-
+// hvhjsbwqkjsgkjwbs,qwjhsb 
+// hwskjbnk nsn
 int main() {
 
 	int marks;
